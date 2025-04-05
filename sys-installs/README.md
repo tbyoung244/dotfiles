@@ -36,3 +36,5 @@ Successfully installed.
 ### Citations
 - https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html
    * I used this site to look up the commands on installing ansible.
+- What's the command to verify if apt package manager is installed?
+   * Asked ChatGPT what to type in my script to verify that the apt package manager is installed which it then gave me and I used in my script.
