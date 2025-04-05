@@ -32,6 +32,10 @@ y\n
 ```
 Successfully installed.
 ```
+- Run this command to verify installation:
+```
+ansible --version
+```
 
 ### Citations
 - https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html
