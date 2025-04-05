@@ -32,3 +32,7 @@ y\n
 ```
 Successfully installed.
 ```
+
+### Citations
+- https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html
+   * I used this site to look up the commands on installing ansible.
