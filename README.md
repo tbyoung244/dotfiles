@@ -1,7 +1,7 @@
 # dotfiles
 
 ## Repository Contents
-This repo contains my customized dotfiles to set up a personal envrioment quickly and consistently for Linux machines. <br>
+This repo contains my customized dotfiles to set up a personal enviroment quickly and consistently for Linux machines. <br>
 It contains the following folders:
 - `/vim-config/`: Vim settings, installs Vundle, sets up color schemes, installs plugins.
 - `/homefiles/`: Bash aliases, bash customization files, with scripts to link them into the home directory.
@@ -18,3 +18,9 @@ It contains the following folders:
 - `sys-installs` - For Ansible install script
 
 3. For additional info on each folder, read the `README.md` in the respective folder for information.
+
+## Improvements Made
+I made improvements to Task 1 - vim & Vundle.
+- I fixed where I initally missed adding the `.vimrc` to the `/vim-config/` folder. Added it correctly to folder.
+- Also added a README.md to explain how to install the vim setup and a usage guide.
+- Also highlighted other issues in the issue section of the dotfiles but I did not fix them.
